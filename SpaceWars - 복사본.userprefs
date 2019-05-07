@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="SpaceWars - 복사본.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\Player.cs">
+    <Files>
+      <File FileName="..\NoName\Assets\Scripts\Info_Bar.cs" Line="13" Column="2" />
+      <File FileName="..\NoName\Assets\Scripts\Monster.cs" Line="25" Column="3" />
+      <File FileName="Assets\script\Special.cs" Line="12" Column="2" />
+      <File FileName="Assets\script\Player.cs" Line="54" Column="18" />
+      <File FileName="Assets\script\timer.cs" Line="18" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
